@@ -26,7 +26,7 @@ masterController(app)
 
 
 app.listen(PORT,() => {
-    console.log(`SERVER STARTED at PORT : ${PORT}`)
+    console.log(`SERVER STARTED at PORT: ${PORT}`)
 })
 
 
