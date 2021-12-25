@@ -26,17 +26,7 @@ masterController(app)
 
 
 app.listen(PORT,() => {
-    console.log(`SERVER STARTED at PORT ${PORT}`)  
-    console.log('vscode git relationship')  
+    console.log(`SERVER STARTED at PORT ${PORT}`)   
 })
 
 
-/*
-heroku login
-git init
-heroku git:remote -a 
-
-git add .
-git commit -am "v1.0.0"
-git push heroku master
-*/
